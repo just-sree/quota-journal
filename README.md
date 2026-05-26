@@ -1,7 +1,7 @@
 # quota-journal
 
 [![CI](https://github.com/just-sree/quota-journal/actions/workflows/ci.yml/badge.svg)](https://github.com/just-sree/quota-journal/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/LICENSE-2.0)
 
 A lightweight utility for tracking API usage, managing system rate limits, and recording request quotas.
 
@@ -11,4 +11,4 @@ A lightweight utility for tracking API usage, managing system rate limits, and r
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.
